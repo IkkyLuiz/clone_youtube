@@ -22,7 +22,8 @@ O principal objetivo deste projeto foi colocar em prática os conhecimentos adqu
 
 ## 📷 Captura de Tela
 
-*(Inclua aqui uma imagem da interface, se possível)*
+![Prévia da Página do YouTube](img/cloneyt.png)
+
 
 ## 📁 Como Visualizar o Projeto
 
